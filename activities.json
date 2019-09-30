@@ -1,0 +1,298 @@
+{
+    "activities": [
+        {
+            "name": "Terminal",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-29 16:06:06",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 14,
+                    "start_time": "2019-09-29 16:05:52"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2019-09-29 16:07:44",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2019-09-29 16:07:35"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2019-09-29 16:08:28",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2019-09-29 16:08:22"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2019-09-29 16:08:33",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2019-09-29 16:08:31"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2019-09-29 16:08:44",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 8,
+                    "start_time": "2019-09-29 16:08:36"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2019-09-29 16:09:34",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2019-09-29 16:09:33"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2019-09-29 16:09:36",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2019-09-29 16:09:35"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2019-09-29 16:09:51",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2019-09-29 16:09:45"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2019-09-30 14:29:20",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2019-09-30 14:29:16"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2019-09-30 14:29:30",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2019-09-30 14:29:23"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2019-09-30 14:29:37",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2019-09-30 14:29:34"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2019-09-30 14:29:46",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2019-09-30 14:29:38"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2019-09-30 14:29:51",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2019-09-30 14:29:47"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2019-09-30 14:30:01",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2019-09-30 14:29:57"
+                }
+            ]
+        },
+        {
+            "name": "www.youtube.com",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-29 16:06:09",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2019-09-29 16:06:06"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2019-09-29 16:07:35",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 55,
+                    "start_time": "2019-09-29 16:06:40"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2019-09-29 16:08:30",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2019-09-29 16:08:28"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2019-09-29 16:09:33",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 46,
+                    "start_time": "2019-09-29 16:08:46"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2019-09-29 16:09:35",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2019-09-29 16:09:34"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2019-09-29 16:09:45",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 8,
+                    "start_time": "2019-09-29 16:09:37"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2019-09-30 14:29:38",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2019-09-30 14:29:37"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2019-09-30 14:29:47",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2019-09-30 14:29:46"
+                }
+            ]
+        },
+        {
+            "name": "github.com",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-29 16:06:40",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 31,
+                    "start_time": "2019-09-29 16:06:09"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2019-09-29 16:08:31",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2019-09-29 16:08:30"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2019-09-29 16:08:34",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2019-09-29 16:08:33"
+                }
+            ]
+        },
+        {
+            "name": "Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-29 16:08:22",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 38,
+                    "start_time": "2019-09-29 16:07:44"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2019-09-29 16:09:53",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2019-09-29 16:09:51"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2019-09-30 14:29:23",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2019-09-30 14:29:20"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2019-09-30 14:29:57",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2019-09-30 14:29:51"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2019-09-30 14:30:03",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2019-09-30 14:30:01"
+                }
+            ]
+        },
+        {
+            "name": "ligaspel.se",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-29 16:08:36",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2019-09-29 16:08:34"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2019-09-29 16:08:46",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2019-09-29 16:08:44"
+                }
+            ]
+        },
+        {
+            "name": "Finder",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-30 14:29:34",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2019-09-30 14:29:30"
+                }
+            ]
+        }
+    ]
+}
